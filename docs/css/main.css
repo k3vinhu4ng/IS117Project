@@ -22,7 +22,8 @@ h1 {
 .h3 {
     font-size: 160%;
 }
-.menu {
+.menu
+{
     padding-left: 0px;
 }
 .menu li {
